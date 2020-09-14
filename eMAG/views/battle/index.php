@@ -1,0 +1,3 @@
+<hr>
+<?=($this->finalResult ?? '');?>
+<br />
